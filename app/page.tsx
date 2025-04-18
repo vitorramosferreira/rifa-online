@@ -62,6 +62,14 @@ export default function Home() {
             Comprar Bilhete / Doar
           </a>
           <a
+          href="https://wa.me/5562984306703?text=Acabei%20de%20comprar%20uma%20rifa,%20vim%20escolher%20o%20n%C3%BAmero!"
+          className="bg-green-600 text-white py-2 px-4 rounded-lg text-center hover:bg-green-700"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          CONFIRME SUA COMPRA
+          </a>
+          <a
             href="https://wa.me/5562984306703"
             className="text-[#D46C45] underline text-center"
             target="_blank"
